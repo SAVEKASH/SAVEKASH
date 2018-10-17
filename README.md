@@ -1,6 +1,6 @@
 Short description of your app 
 
-The SAVEKASH is an app that will allow a group of people to save money so that each person recieve the money they saved when they turn comes on. This saving method will allow people to save a big amount of money in a short period of time, especially for people who want to start a buisness. 
+The PiggyBACK is an app that will allow a group of people to save money so that each person recieve the money they saved when they turn comes on. This saving method will allow people to save a big amount of money in a short period of time, especially for people who want to start a buisness. 
 
 
 Bulleted list of User Stories
